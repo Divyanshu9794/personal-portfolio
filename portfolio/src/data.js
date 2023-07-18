@@ -59,6 +59,7 @@ export const projects = [
         name: "Data Analysis USing Tableau",
         image: p5,
         tags: ["data-analysis"],
+        
     },
     
 ];

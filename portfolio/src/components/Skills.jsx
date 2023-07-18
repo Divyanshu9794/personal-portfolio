@@ -59,7 +59,7 @@ const Skills = () => {
                     <div className="md:max-w-[65%] flex flex-col gap-6 md:gap-10">
                         <Service
                             num="1"
-                            title="Frontent Development"
+                            title="Frontend Development"
                             desc="Passionate about creating immersive and user-centric digital journeys, I thrive as a frontend developer. Armed with expertise in HTML, CSS, JavaScript, and cutting-edge frameworks like React and Vue.js, I blend artistic design with seamless functionality to craft visually stunning and intuitive interfaces. With meticulous attention to detail and a commitment to delivering exceptional user experiences, I bring ideas to life, leaving a lasting impact on the digital landscape. Let's collaborate and shape the future of the web together!"
                             data={[
                                 

@@ -2,6 +2,7 @@ import React from "react";
 
 import Wrapper from "./Wrapper";
 import linkedinicon from "../assets/linkedin-icon.png";
+import gitHublogo from "../assets/GitHub-logo.jpg";
 import gmailIcon from "../assets/email-icon.png";
 import { scrollTo } from "../helper";
 
@@ -14,12 +15,16 @@ const Footer = () => {
                     <div className="flex items-center gap-[6px]">
                         <div className="w-[35px] h-[35px] rounded-full bg-[#252525] flex justify-center items-center">
                             <img src={gmailIcon} alt="" className="w-[18px]" />
-                        </div>
+                        </div><br />
                         <div><a href="mailto:sdivyanshu352@gmail.com">sdivyanshu352@gmail.com</a></div>
                         <div className="w-[35px] h-[35px] rounded-full bg-[#252525] flex justify-center items-center">
                             <img src={linkedinicon} alt="" className="w-[18px]" />
                         </div>
                         <div><a href="https://www.linkedin.com/in/divyanshu-singh-3b433119b/" target="_blank">Divyanshu Singh</a></div>
+                        <div className="w-[35px] h-[35px] rounded-full bg-[#252525] flex justify-center items-center">
+                            <img src={gitHublogo} alt="" className="w-[18px]" />
+                        </div>
+                        <div><a href="https://github.com/Divyanshu9794/" target="_blank">Divyanshu Singh</a></div>
                     </div>
                     <ul className="flex 2xl:text-[20px] gap-5 md:gap-8">
                         <li
