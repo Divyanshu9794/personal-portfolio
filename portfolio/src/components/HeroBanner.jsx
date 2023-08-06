@@ -8,6 +8,7 @@ import gmailIcon from "../assets/email-icon.png";
 import linkedinicon from "../assets/linkedin-icon.png";
 import { scrollTo } from "../helper";
 import { useFollowPointer } from "./useFollowPointer";
+import gitHublogo from "../assets/GitHub-logo.jpg";
 
 const HeroBanner = () => {
     const ref = useRef(null);
@@ -40,14 +41,18 @@ const HeroBanner = () => {
                     transition={{ duration: 0.7, delay: 0.25 }}
                 >
                     <div className="flex items-center gap-[6px]">
-                        <div className="w-[35px] h-[35px] rounded-full bg-[#252525] flex justify-center items-center">
-                            <img src={gmailIcon} alt="" className="w-[18px]" />
-                        </div>
-                        <div><a href="mailto:sdivyanshu352@gmail.com">sdivyanshu352@gmail.com</a></div><br/>
-                        <div className="w-[35px] h-[35px] rounded-full bg-[#252525] flex justify-center items-center">
+                        
+                    
+                        <div><a href="https://github.com/Divyanshu9794/" target="_blank"><div className="w-[35px] h-[35px] rounded-full bg-[#252525] flex justify-center items-center">
+                            <img src={gitHublogo} alt="" className="w-[18px]" />
+                        </div></a></div>
+                        <div><a href="https://www.linkedin.com/in/divyanshu-singh-3b433119b/" target="_blank"> <div className="w-[35px] h-[35px] rounded-full bg-[#252525] flex justify-center items-center">
                             <img src={linkedinicon} alt="" className="w-[18px]" />
-                        </div>
-                        <div><a href="https://www.linkedin.com/in/divyanshu-singh-3b433119b/" target="_blank">Divyanshu Singh</a></div>
+                        </div></a></div>
+                
+                        {/* <div className="w-[35px] h-[35px] rounded-full bg-[#252525] flex justify-center items-center">
+                            <img src={linkedinicon} alt="" className="w-[18px]" />
+                        </div> */}
                     </div>
                     <ul className="flex 2xl:text-[20px]">
                         <li
