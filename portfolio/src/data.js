@@ -4,6 +4,7 @@ import p3 from "./assets/project-3.png";
 import p4 from "./assets/project-4.png";
 import p5 from "./assets/project-5.png";
 import p7 from "./assets/project-7.png";
+import p8 from "./assets/project-8.png";
 
 export const filters = [
     {
@@ -30,6 +31,10 @@ export const filters = [
     {
         name: "Website",
         id: "website",
+    },
+    {
+        name: "Prediction",
+        id: "prediction",
     }
 
 ];
@@ -66,6 +71,11 @@ export const projects = [
         image: p7,
         tags: ["data-analysis","website"],
         
+    },
+    {
+        name: "BusYatri",
+        image: p8,
+        tags: ["data-analysis","website","prediction"],
     },
     
 ];
