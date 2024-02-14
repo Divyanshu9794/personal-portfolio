@@ -97,7 +97,29 @@ const Skills = () => {
                             data={[
                                 
                             ]}
-                        />  
+                        /> 
+
+
+
+                        <Service
+                            num="6"
+                            title="Machine Learning"
+                            desc="I bring strong machine learning skills demonstrated through participation in hackathons and selection for Amazon Summer ML School 2023. My practical expertise shines in projects like the Crop Suggestion System, employing machine learning for personalized recommendations to farmers. I stay abreast of the latest advancements, showcasing a commitment to innovation and real-world application of machine learning concepts."
+                            data={[
+                                
+                            ]}
+                        /> 
+
+
+
+                        {/* <Service
+                            num="7"
+                            title="Tableau Data Analyser"
+                            desc="As a Tableau Analyst with a solid foundation in the basics, I excel at transforming raw data into captivating visual narratives. With an innate ability to unravel complex datasets, I leverage Tableau's power to unlock actionable insights. From crafting dynamic dashboards to conducting data exploration, I bring a creative touch to data analysis. With Tableau as my trusted companion, I transform numbers into compelling stories that empower decision-makers. Together, let's embark on a journey of data exploration and unveil the untold potential hidden within your organization's information landscape."
+                            data={[
+                                
+                            ]}
+                        />   */}
                     </div>
                     {/* SERVICES END */}
 

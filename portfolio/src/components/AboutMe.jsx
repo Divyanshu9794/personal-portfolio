@@ -40,15 +40,44 @@ const AboutMe = () => {
 
                 {/* PARAGRAPH START */}
                 <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
-                As an aspiring full-stack software developer, I am pursuing a Bachelor's of Technology in Computer Science and Engineering and have developed a strong foundation in a range of technical skills. With expertise in Node.js, MongoDB, and C++, I am skilled at building robust web applications . I am also familiar with C, Python and have experience with competitive programming on platforms like LeetCode, GeeksForGeeks.
-
+                🚀 Immersed in the world of technology, I am a recent graduate armed with a Bachelor's degree in Computer Science & Engineering. My foray into the tech landscape has been driven by an insatiable curiosity and a passion for creating digital solutions.
 
                 </Div>
                 {/* PARAGRAPH END */}
 
                 {/* PARAGRAPH START */}
                 <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
-                As a computer science engineering student, I am committed to staying up-to-date with the latest trends and technologies in my field. My goal is to apply my technical skills and knowledge to solve complex problems and deliver innovative solutions for clients. I am a hardworking, detail-oriented individual who enjoys collaborating with others and taking on new challenges.
+                🛠️ In the realm of insightful internships, I've had the opportunity to dive into a spectrum of projects. From shaping a technology blogging website to innovating with Li-Fi technology in an Android app, my journey reflects a commitment to pushing boundaries.
+
+
+                </Div>{/* PARAGRAPH START */}
+                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                💻 Proficient in Java, C, C++, JavaScript, HTML5, CSS3, and Python, I navigate the intricate landscape of software development. Harnessing frameworks like NodeJs and ReactJs, I've delved into the complexities of backend development using MongoDB and SQL.
+
+
+
+
+                </Div>{/* PARAGRAPH START */}
+                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                🏆 My journey includes notable positions in hackathons and the privilege of earning a spot in Amazon Summer ML School 2023, attesting to my problem-solving prowess.
+
+
+
+
+                </Div>{/* PARAGRAPH START */}
+                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                🌱 Steering the development of a Crop Suggestion System currently, I leverage machine learning for personalized agricultural recommendations. Explore my portfolio, including a personal website crafted with React, a testament to my dedication to web development.
+
+
+
+
+                </Div>
+                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                🔍 Recognized for discipline, organizational finesse, and acute attention to detail, I am eager to contribute my skills to a dynamic team poised to make a mark in the digital sphere.
+
+
+
+
                 </Div>
                 {/* PARAGRAPH END */}
 

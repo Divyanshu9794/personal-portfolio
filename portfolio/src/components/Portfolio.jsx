@@ -58,13 +58,16 @@ const Portfolio = () => {
                             className="flex flex-col gap-4 cursor-pointer"
                         >
                             <div className="bg-black rounded-[20px] aspect-video overflow-hidden">
-                                <img
+                            <a href={item.link} target="_blank"><img
                                     src={item.image}
                                     className="transition-transform hover:-translate-y-[25%] hover:duration-2500 ease-linear"
-                                />
+                                /></a>
                             </div>
                             <div className="text-[20px] 2xl:text-[24px] text-[#CCCCCC] text-center">
-                                {item.name}
+                            <a href={item.link} target="_blank">{item.name}</a>
+                            </div>
+                            <div className="text-[20px] 2xl:text-[24px] text-[#CCCCCC] text-center">
+                            
                             </div>
                         </Div>
                     );
