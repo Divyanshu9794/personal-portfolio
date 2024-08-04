@@ -8,6 +8,8 @@ import p8 from "./assets/project-8.png";
 import p9 from "./assets/project-9.jpg";
 import p10 from "./assets/project-10.jpg";
 import p11 from "./assets/project-11.png";
+import p12 from "./assets/project-12.png";
+import p13 from "./assets/project-13.png";
 
 export const filters = [
     {
@@ -47,10 +49,10 @@ export const filters = [
         name: "Android Application",
         id: "Android Application",
     },
-    {
-        name: "Chatting Application",
-        id: "Chatting Application",
-    }
+    // {
+    //     name: "Chatting Application",
+    //     id: "Chatting Application",
+    // }
 
 ];
 
@@ -108,7 +110,7 @@ export const projects = [
     },
     {
         
-            name: "UPAJ",
+            name: "UPAJ Application",
             image: p10,
             tags: ["Machine Learning","prediction","Android Application"],
             link: 'https://github.com/Divyanshu9794/Major_final/tree/main/Upaj_application2',
@@ -121,7 +123,24 @@ export const projects = [
         tags: ["Chatting Application","Android Application"],
         link: 'https://github.com/Divyanshu9794/ChitChatApplication',
     
-}
+    },
+    {
+        
+        name: "Personal Portfolio",
+        image: p12,
+        tags: ["website"],
+        link: 'https://github.com/Divyanshu9794/personal-portfolio',
+    
+    },
+    {
+        
+        name: "UPAJ Website",
+        image: p13,
+        tags: ["website","Machine Learning"],
+        link: 'https://github.com/Divyanshu9794/Major_final/tree/main/Upaj2.0%20(2)',
+    
+    }
+
     
 ];
 
