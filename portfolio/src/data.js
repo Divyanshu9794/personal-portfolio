@@ -6,6 +6,8 @@ import p5 from "./assets/project-5.png";
 import p7 from "./assets/project-7.png";
 import p8 from "./assets/project-8.png";
 import p9 from "./assets/project-9.jpg";
+import p10 from "./assets/project-10.jpg";
+import p11 from "./assets/project-11.png";
 
 export const filters = [
     {
@@ -21,10 +23,10 @@ export const filters = [
         name: "Blogging",
         id: "blog",
     },
-    {
-        name: "chat-bot",
-        id: "chatbot",
-    },
+    // {
+    //     name: "chat-bot",
+    //     id: "chatbot",
+    // },
     {
         name: "Data-Analysis",
         id: "data-analysis",
@@ -33,13 +35,21 @@ export const filters = [
         name: "Website",
         id: "website",
     },
-    {
-        name: "Prediction",
-        id: "prediction",
-    },
+    // {
+    //     name: "Prediction",
+    //     id: "prediction",
+    // },
     {
         name: "Machine Learning",
         id: "Machine Learning",
+    },
+    {
+        name: "Android Application",
+        id: "Android Application",
+    },
+    {
+        name: "Chatting Application",
+        id: "Chatting Application",
     }
 
 ];
@@ -95,7 +105,23 @@ export const projects = [
         image: p9,
         tags: ["Machine Learning","prediction"],
         link: 'https://github.com/Divyanshu9794/Plant_Disease_Prediction_System_',
-    }
+    },
+    {
+        
+            name: "UPAJ",
+            image: p10,
+            tags: ["Machine Learning","prediction","Android Application"],
+            link: 'https://github.com/Divyanshu9794/Major_final/tree/main/Upaj_application2',
+        
+    },
+    {
+        
+        name: "Chitchat",
+        image: p11,
+        tags: ["Chatting Application","Android Application"],
+        link: 'https://github.com/Divyanshu9794/ChitChatApplication',
+    
+}
     
 ];
 
