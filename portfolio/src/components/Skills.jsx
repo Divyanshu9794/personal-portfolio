@@ -109,6 +109,14 @@ const Skills = () => {
                                 
                             ]}
                         /> 
+                        <Service
+                            num="7"
+                            title="Microsoft Power Platform"
+                            desc="I have hands-on experience with Microsoft Power Platform, including PowerApps, Power BI, and Power Automate. At HCLTech, I develop custom PowerApps solutions, automate workflows, and create interactive Power BI dashboards for data-driven decision-making. My expertise lies in streamlining business processes, integrating Power Platform tools with SharePoint and SQL, and ensuring role-based access control for secure applications."
+                            data={[
+
+                            ]}
+                            />
 
 
 

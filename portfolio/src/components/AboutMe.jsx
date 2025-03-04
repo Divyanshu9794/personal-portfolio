@@ -37,6 +37,11 @@ const AboutMe = () => {
                     </span> */}
                 </Div>
                 {/* HEADING END */}
+                {/* PARAGRAPH START */}
+                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                🚀 Currently working at HCLTech as a Graduate Engineer Trainee, I have hands-on experience with Microsoft Power Platform, including PowerApps, Power BI, and Power Automate, streamlining business processes and enhancing productivity.
+                </Div>
+                {/* PARAGRAPH END */}
 
                 {/* PARAGRAPH START */}
                 <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">

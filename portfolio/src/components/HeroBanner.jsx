@@ -2,7 +2,8 @@ import { useRef } from "react";
 import { motion } from "framer-motion";
 
 import Wrapper from "./Wrapper";
-import man from "../assets/man1.png";
+import man from "../assets/myphoto.png";
+
 import externalLinkIcon from "../assets/external-link-icon.png";
 import gmailIcon from "../assets/email-icon.png";
 import linkedinicon from "../assets/linkedin-icon.png";
