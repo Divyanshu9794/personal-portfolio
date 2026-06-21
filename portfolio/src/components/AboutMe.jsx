@@ -38,55 +38,47 @@ const AboutMe = () => {
                 </Div>
                 {/* HEADING END */}
                 {/* PARAGRAPH START */}
-                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
-                🚀 Currently working at HCLTech as a Graduate Engineer Trainee, I have hands-on experience with Microsoft Power Platform, including PowerApps, Power BI, and Power Automate, streamlining business processes and enhancing productivity.
-                </Div>
+                {/* PARAGRAPH START */}
+                <div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                🚀 Currently working as an <strong>Analyst - Software Engineer at HCLTech</strong>, I engineer and deliver enterprise-grade web applications. I specialize in building responsive user interfaces with <strong>React.js</strong>, developing robust RESTful APIs with <strong>Node.js & Express.js</strong>, and deploying secure, scalable solutions on <strong>Microsoft Azure</strong> .
+                </div>
                 {/* PARAGRAPH END */}
 
                 {/* PARAGRAPH START */}
-                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
-                🚀 Immersed in the world of technology, I am a recent graduate armed with a Bachelor's degree in Computer Science & Engineering. My foray into the tech landscape has been driven by an insatiable curiosity and a passion for creating digital solutions.
-
-                </Div>
+                <div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                🛠️ Beyond core full-stack development, I possess strong expertise in workflow orchestration using the <strong>Microsoft Power Platform</strong> . I design automated data processing pipelines and business-critical workflows using Power Apps, Power Automate, and Logic Apps to maximize operational efficiency .
+                </div>
                 {/* PARAGRAPH END */}
 
                 {/* PARAGRAPH START */}
-                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
-                🛠️ In the realm of insightful internships, I've had the opportunity to dive into a spectrum of projects. From shaping a technology blogging website to innovating with Li-Fi technology in an Android app, my journey reflects a commitment to pushing boundaries.
-
-
-                </Div>{/* PARAGRAPH START */}
-                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
-                💻 Proficient in Java, C, C++, JavaScript, HTML5, CSS3, and Python, I navigate the intricate landscape of software development. Harnessing frameworks like NodeJs and ReactJs, I've delved into the complexities of backend development using MongoDB and SQL.
-
-
-
-
-                </Div>{/* PARAGRAPH START */}
-                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
-                🏆 My journey includes notable positions in hackathons and the privilege of earning a spot in Amazon Summer ML School 2023, attesting to my problem-solving prowess.
-
-
-
-
-                </Div>{/* PARAGRAPH START */}
-                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
-                🌱 Steering the development of a Crop Suggestion System currently, I leverage machine learning for personalized agricultural recommendations. Explore my portfolio, including a personal website crafted with React, a testament to my dedication to web development.
-
-
-
-
-                </Div>
-                <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
-                🔍 Recognized for discipline, organizational finesse, and acute attention to detail, I am eager to contribute my skills to a dynamic team poised to make a mark in the digital sphere.
-
-
-
-
-
-
-                </Div>
+                <div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                💻 Backed by a Bachelor's degree in Computer Science & Engineering (Honors) and a <strong>GATE qualification</strong>, I navigate the technical landscape with strong foundational skills. My core programming capabilities span <strong>JavaScript, C++, Python, and SQL</strong>, allowing me to build robust backend scripts and solve complex architectural problems efficiently.
+                </div>
                 {/* PARAGRAPH END */}
+
+                {/* PARAGRAPH START */}
+                <div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                📜 Validating my technical expertise, I hold multiple professional certifications, including <strong>Microsoft Azure Fundamentals (AZ-900)</strong>, <strong>Azure AI Fundamentals (AI-900)</strong>, and <strong>Power Platform Fundamentals (PL-900)</strong> . Additionally, I am certified in <strong>Claude Code in Action by Anthropic</strong> and recognized as a <strong>Postman API Student Expert</strong> .
+                </div>
+                {/* PARAGRAPH END */}
+
+                {/* PARAGRAPH START */}
+                <div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                🏆 Driven by a commitment to high performance, I was honored with the <strong>Rising Star Award</strong> and recognized as an <strong>Outstanding Contributor</strong> within my first six months at HCLTech . My problem-solving background also includes being selected for the prestigious <strong>Amazon Summer ML School</strong> .
+                </div>
+                {/* PARAGRAPH END */}
+
+                {/* PARAGRAPH START */}
+                <div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                🌱 On the innovation front, I engineered <strong>UPAJ (Crop Suggestion System)</strong>, a machine learning-backed platform that leverages Python and real-time weather/soil analytics to deliver personalized agricultural recommendations, improving predictive accuracy by 25% .
+                </div>
+                {/* PARAGRAPH END */}
+
+                {/* PARAGRAPH START */}
+                <div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+                🔍 Recognized for strong technical discipline, organizational finesse, and acute attention to detail, I thrive in dynamic development environments where I can build software that leaves a measurable digital footprint .
+                </div>
+                {/* PARAGRAPH END */}                {/* PARAGRAPH END */}
 
                 {/* PARAGRAPH START */}
                 <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] relative">

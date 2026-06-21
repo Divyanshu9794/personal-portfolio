@@ -17,152 +17,153 @@ export const filters = [
         id: "all",
     },
     {
-        name: "Educational",
-        id: "educational",
-    },
-   
-    {
-        name: "Blogging",
-        id: "blog",
-    },
-    // {
-    //     name: "chat-bot",
-    //     id: "chatbot",
-    // },
-    {
-        name: "Data-Analysis",
-        id: "data-analysis",
-    },
-    {
-        name: "Website",
+        name: "Web Applications",
         id: "website",
     },
-    // {
-    //     name: "Prediction",
-    //     id: "prediction",
-    // },
+    {
+        name: "Mobile Development",
+        id: "Android Application",
+    },
     {
         name: "Machine Learning",
         id: "Machine Learning",
     },
     {
-        name: "Android Application",
-        id: "Android Application",
+        name: "Data Analytics",
+        id: "data-analysis",
     },
-    // {
-    //     name: "Chatting Application",
-    //     id: "Chatting Application",
-    // }
-
+    {
+        name: "Educational Tools",
+        id: "educational",
+    },
+    {
+        name: "Blogging",
+        id: "blog",
+    },
 ];
 
 export const projects = [
     {
-        name: "Edureka the Educational Community",
+        name: "FileDrop v3 — Zero-Server P2P File Transfer",
+        image: p4, // Mapped to unused slot p4
+        tags: ["website", "P2P Systems"],
+        link: 'https://github.com/Divyanshu9794/Cross-device-fileshare',
+    },
+    {
+        name: "Yummy Cart — Food Ordering Application",
+        image: p10, // Grouped logically next to Admin app
+        tags: ["Android Application", "Kotlin"],
+        link: 'https://github.com/Divyanshu9794/Yummy_cart',
+    },
+    {
+        name: "Yummy Cart — Restaurant Management Admin Panel",
+        image: p11, 
+        tags: ["Android Application", "Kotlin"],
+        link: 'https://github.com/Divyanshu9794/Admin_Yummy_Cart',
+    },
+    {
+        name: "UPAJ — Smart Agriculture Mobile Client",
+        image: p9,
+        tags: ["Machine Learning", "Android Application"],
+        link: 'https://github.com/Divyanshu9794/Major_final/tree/main/Upaj_application2',
+    },
+    {
+        name: "UPAJ Web Ecosystem",
+        image: p13,
+        tags: ["website", "Machine Learning"],
+        link: 'https://github.com/Divyanshu9794/Major_final/tree/main/Upaj2.0%20(2)',
+    },
+    {
+        name: "BusYatri Platform (SIH 2023)",
+        image: p8,
+        tags: ["data-analysis", "website", "Machine Learning"],
+        link: 'https://github.com/Divyanshu9794/SIH_2023/',
+    },
+    {
+        name: "BusYatri — Tableau Revenue Dashboard",
+        image: p5,
+        tags: ["data-analysis"],
+        link: 'https://public.tableau.com/app/profile/divyanshu.singh4340/viz/BusYatriRevenueAnalysis/Dashboard1',
+    },
+    {
+        name: "Plant & Crop Disease Prediction Engine",
+        image: p7,
+        tags: ["Machine Learning"],
+        link: 'https://github.com/Divyanshu9794/Plant_Disease_Prediction_System_',
+    },
+    {
+        name: "Edureka — Educational Community Platform",
         image: p2,
-        tags: ["educational","website"],
+        tags: ["educational", "website"],
         link: 'https://github.com/Divyanshu9794/edureka.github.io',
     },
     {
-        name: "We Bloggers,Write your Blogs Here",
+        name: "We Bloggers — Technical Blogging Platform",
         image: p1,
-        tags: ["blog","website"],
+        tags: ["blog", "website"],
         link: 'https://github.com/Divyanshu9794/blogger.github.io',
     },
     {
         name: "The Coder's Help Guide",
         image: p3,
-        tags: ["educational","website"],
+        tags: ["educational", "website"],
         link: 'https://github.com/Divyanshu9794/codersguide.github.io',
     },
-    // {
-    //     name: "Divyanshu's-GPT",
-    //     image: p4,
-    //     tags: ["chatbot"],
-
-    // },
     {
-        name: "Data Analysis USing Tableau",
-        image: p5,
-        tags: ["data-analysis"],
-        link: 'https://public.tableau.com/app/profile/divyanshu.singh4340/viz/BusYatriRevenueAnalysis/Dashboard1',
-
-        
-    },
-    {
-        name: "Olympics Data Analysis",
-        image: p7,
-        tags: ["data-analysis","website"],
-        link: 'https://github.com/Divyanshu9794/Gfg-hackathon'
-        
-    },
-    {
-        name: "BusYatri",
-        image: p8,
-        tags: ["data-analysis","website","prediction","Machine Learning"],
-        link: 'https://github.com/Divyanshu9794/SIH_2023/',
-    },
-    {
-        name: "Crop Disease Prediction System",
-        image: p9,
-        tags: ["Machine Learning","prediction"],
-        link: 'https://github.com/Divyanshu9794/Plant_Disease_Prediction_System_',
-    },
-    {
-        
-            name: "UPAJ Application",
-            image: p10,
-            tags: ["Machine Learning","prediction","Android Application"],
-            link: 'https://github.com/Divyanshu9794/Major_final/tree/main/Upaj_application2',
-        
-    },
-    {
-        
-        name: "Chitchat",
-        image: p11,
-        tags: ["Chatting Application","Android Application"],
-        link: 'https://github.com/Divyanshu9794/ChitChatApplication',
-    
-    },
-    {
-        
-        name: "Personal Portfolio",
+        name: "Developer Portfolio Website",
         image: p12,
         tags: ["website"],
         link: 'https://github.com/Divyanshu9794/personal-portfolio',
-    
-    },
-    {
-        
-        name: "UPAJ Website",
-        image: p13,
-        tags: ["website","Machine Learning"],
-        link: 'https://github.com/Divyanshu9794/Major_final/tree/main/Upaj2.0%20(2)',
-    
     }
-
-    
 ];
+
 
 export const achievements = [
-    // {
-    //     id: 1,
-    //     year: 80,
-    //     description: "SUCCESSFULLY<br />COMPLETED<br />PROJECTS",
-    // },
-    // {
-    //     id: 2,
-    //     year: 15,
-    //     description: "YEARS OF<br />EXPERIENCE",
-    // },
-    // {
-    //     id: 3,
-    //     year: 25,
-    //     description: "TECHNOLOGIES",
-    // },
-    // {
-    //     id: 4,
-    //     year: 70,
-    //     description: "COMMUNITY<br />POSTS",
-    // },
+    {
+        id: 1,
+        year: 2,
+        description: "HCLTECH PRODUCTION AWARDS",
+        details: "Rising Star Award & Outstanding Contributor",
+    },
+    {
+        id: 2,
+        year: 12,
+        description: "ENGINEERED OPEN-SOURCE REPOSITORIES",
+        details: "Web Clients, Android Apps & ML Systems",
+    },
+    {
+        id: 3,
+        year: 2024,
+        description: "GATE CS QUALIFIED EXAMINEE",
+        details: "All India Rank in Computer Science & IT",
+    },
+    {
+        id: 4,
+        year: 5,
+        description: "PROFESSIONAL TECH CERTIFICATIONS",
+        details: "Azure (AZ-900, AI-900), Power Platform (PL-900), Claude Code & Postman Expert",
+    },
 ];
+
+// export const achievements = [
+//     {
+//         id: 1,
+//         year: 2,
+//         description: "HCLTECH<br />PRODUCTION<br />AWARDS",
+//     },
+//     {
+//         id: 2,
+//         year: 12,
+//         description: "ENGINEERED<br />OPEN-SOURCE<br />REPOSITORIES",
+//     },
+//     {
+//         id: 3,
+//         year: 2024,
+//         description: "GATE CS<br />QUALIFIED<br />EXAMINEE",
+//     },
+//     {
+//         id: 4,
+//         year: 5,
+//         description: "PROFESSIONAL<br />TECH<br />CERTIFICATIONS",
+//     },
+// ];
